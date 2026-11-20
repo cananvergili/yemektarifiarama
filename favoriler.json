@@ -1,0 +1,53 @@
+[ {
+  "idMeal" : "52952",
+  "strMeal" : "Beef Lo Mein",
+  "strCategory" : "Beef",
+  "strArea" : "Chinese",
+  "strInstructions" : "STEP 1 - MARINATING THE BEEF\r\nIn a bowl, add the beef, salt, 1 pinch white pepper, 1 Teaspoon sesame seed oil, 1/2 egg, corn starch,1 Tablespoon of oil and mix together.\r\nSTEP 2 - BOILING THE THE NOODLES\r\nIn a 6 qt pot add your noodles to boiling water until the noodles are submerged and boil on high heat for 10 seconds. After your noodles is done boiling strain and cool with cold water.\r\nSTEP 3 - STIR FRY\r\nAdd 2 Tablespoons of oil, beef and cook on high heat untill beef is medium cooked.\r\nSet the cooked beef aside\r\nIn a wok add 2 Tablespoon of oil, onions, minced garlic, minced ginger, bean sprouts, mushrooms, peapods and 1.5 cups of water or until the vegetables are submerged in water.\r\nAdd the noodles to wok\r\nTo make the sauce, add oyster sauce, 1 pinch white pepper, 1 teaspoon sesame seed oil, sugar, and 1 Teaspoon of soy sauce.\r\nNext add the beef to wok and stir-fry",
+  "strMealThumb" : "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+  "strYoutube" : "https://www.youtube.com/watch?v=ZT9LSsNXXe0",
+  "strIngredient1" : "Beef",
+  "strIngredient2" : "Salt",
+  "strIngredient3" : "Pepper",
+  "strIngredient4" : "Sesame Seed Oil",
+  "strIngredient5" : "Egg"
+}, {
+  "idMeal" : "52956",
+  "strMeal" : "Chicken Congee",
+  "strCategory" : "Chicken",
+  "strArea" : "Chinese",
+  "strInstructions" : "STEP 1 - MARINATING THE CHICKEN\r\nIn a bowl, add chicken, salt, white pepper, ginger juice and then mix it together well.\r\nSet the chicken aside.\r\nSTEP 2 - RINSE THE WHITE RICE\r\nRinse the rice in a metal bowl or pot a couple times and then drain the water.\r\nSTEP 2 - BOILING THE WHITE RICE\r\nNext add 8 cups of water and then set the stove on high heat until it is boiling. Once rice porridge starts to boil, set the stove on low heat and then stir it once every 8-10 minutes for around 20-25 minutes.\r\nAfter 25 minutes, this is optional but you can add a little bit more water to make rice porridge to make it less thick or to your preference.\r\nNext add the marinated chicken to the rice porridge and leave the stove on low heat for another 10 minutes.\r\nAfter an additional 10 minutes add the green onions, sliced ginger, 1 pinch of salt, 1 pinch of white pepper and stir for 10 seconds.\r\nServe the rice porridge in a bowl\r\nOptional: add Coriander on top of the rice porridge.",
+  "strMealThumb" : "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+  "strYoutube" : "https://www.youtube.com/watch?v=kqEfk801E94",
+  "strIngredient1" : "Chicken",
+  "strIngredient2" : "Salt",
+  "strIngredient3" : "Pepper",
+  "strIngredient4" : "Ginger Cordial",
+  "strIngredient5" : "Ginger"
+}, {
+  "idMeal" : "53079",
+  "strMeal" : "Fish Soup (Ukha)",
+  "strCategory" : "Seafood",
+  "strArea" : "Russian",
+  "strInstructions" : "In a medium pot, heat the olive oil over medium-high heat. Add the onions and cook, stirring occasionally until the onions start to caramelize. Add the carrots and cook until the carrots start to soften, about 4 more minutes.\r\nAdd the stock, water, potatoes, bay leaves, and black peppercorns. Season with salt and bring to a boil. Reduce heat, cover and cook for 10 minutes. Add the millet and cook for 15 more minutes until millet and potatoes are cooked.\r\nGently add the fish cubes. Stir and bring the soup to a simmer. The fish will cook through very fast, so make sure to not overcook them. They are done when the flesh is opaque and flakes easily.\r\nGarnish the soup with chopped fresh dill or parsley before serving.",
+  "strMealThumb" : "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg",
+  "strYoutube" : "https://www.youtube.com/watch?v=cS3Yn-y5uVg",
+  "strIngredient1" : "Olive Oil",
+  "strIngredient2" : "Onion",
+  "strIngredient3" : "Carrots",
+  "strIngredient4" : "Fish Stock",
+  "strIngredient5" : "Water"
+}, {
+  "idMeal" : "52956",
+  "strMeal" : "Chicken Congee",
+  "strCategory" : "Chicken",
+  "strArea" : "Chinese",
+  "strInstructions" : "STEP 1 - MARINATING THE CHICKEN\r\nIn a bowl, add chicken, salt, white pepper, ginger juice and then mix it together well.\r\nSet the chicken aside.\r\nSTEP 2 - RINSE THE WHITE RICE\r\nRinse the rice in a metal bowl or pot a couple times and then drain the water.\r\nSTEP 2 - BOILING THE WHITE RICE\r\nNext add 8 cups of water and then set the stove on high heat until it is boiling. Once rice porridge starts to boil, set the stove on low heat and then stir it once every 8-10 minutes for around 20-25 minutes.\r\nAfter 25 minutes, this is optional but you can add a little bit more water to make rice porridge to make it less thick or to your preference.\r\nNext add the marinated chicken to the rice porridge and leave the stove on low heat for another 10 minutes.\r\nAfter an additional 10 minutes add the green onions, sliced ginger, 1 pinch of salt, 1 pinch of white pepper and stir for 10 seconds.\r\nServe the rice porridge in a bowl\r\nOptional: add Coriander on top of the rice porridge.",
+  "strMealThumb" : "https://www.themealdb.com/images/media/meals/1529446352.jpg",
+  "strYoutube" : "https://www.youtube.com/watch?v=kqEfk801E94",
+  "strIngredient1" : "Chicken",
+  "strIngredient2" : "Salt",
+  "strIngredient3" : "Pepper",
+  "strIngredient4" : "Ginger Cordial",
+  "strIngredient5" : "Ginger"
+} ]
